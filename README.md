@@ -42,10 +42,6 @@ Contributions to this project are welcome. To contribute, follow these steps:
 
 Please ensure your code adheres to the project's coding standards and includes appropriate documentation.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For questions or feedback, please contact sharanajay619@gmail.com. You can also visit SharanAjay(https://github.com/SharanAjay) for more information.
